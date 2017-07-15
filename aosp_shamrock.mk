@@ -37,8 +37,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=qcom/shamrock/shamrock:7.1.1/NNH26/3945561:user/release-keys \
     PRIVATE_BUILD_DESC="shamrock-user 7.1.1 NNH26 3945561 release-keys"
 
-# Build Magisk
-DEFAULT_ROOT_METHOD := magisk
+# Build Supersu
+DEFAULT_ROOT_METHOD := supersu
 
 # Build Type
 EXTENDED_BUILD_TYPE=OFFICIAL
